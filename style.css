@@ -1,0 +1,134 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    width: 660px;
+    border: 1px solid #000000;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    color: rgb(84, 149, 214);
+}
+
+.pp {
+    border: 1px solid;
+    width: 80px;
+    height: 80px;
+    border-radius: 10%;
+    position: relative;
+    left: 500px;
+    padding: 10px;
+
+}
+
+/* take a head center and give its margin to and buttom */
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+
+    margin-top: 10px;
+}
+
+.subject-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.subject-table,
+.subject-table th,
+.subject-table td {
+    border: 1px solid #000;
+}
+
+.subject-table th,
+.subject-table td {
+    padding: 10px;
+    text-align: center;
+}
+
+.signature {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.signature div {
+    text-align: center;
+    width: 45%;
+}
+
+
+
+
+/* Application for admission css */
+.main{
+    border: 1px solid rgb(120, 120, 240);
+    width: 350px;
+    padding: 10px;
+    margin-top: 20px;
+}
+#Name{
+    position: relative;
+    right: 150px;
+}
+#Names{
+    position: relative;
+    right: 230px;
+}
+#LocalGuardian{
+    position: relative;
+    right: 190px;
+
+}
+#AcademicDetails {
+    position: relative;
+    right: 250px;
+
+}
+#Class11{
+    position: relative;
+    right: 290px;
+}
+#moreInfo{
+    border: 1px solid rgb(120, 120, 240);
+    width: 650px;
+   
+  
+}
+
+#btn{
+  
+    position: relative;
+    left: 60%;
+    text-decoration: none;
+   
+}
+#note{
+ border: 1px solid;
+ border-radius: 3px;
+}
+#sign{
+    position: relative;
+    left: 40%;
+}
+#Nast{
+    position: relative;
+    right: 110px;
+}
+#Nine{
+    position: relative;
+    right: 250px;
+
+}
+#Nined{
+    position: relative;
+    right: 20px;
+
+}
+#Nepali{
+    position: relative;
+    right: 210px;
+}
